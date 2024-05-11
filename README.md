@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A Student Developer from the UK</h3>
 
-- 🔭 I recently finished my [Discord Economy Bot](https://github.com/furthestgoose/Economy-Bot)
+- 🔭 I recently finished [Inkforge](https://github.com/furthestgoose/InkForge) an ai storyteller
 
 - 🌱 I’m currently learning **Swift and SwiftUI**
 
