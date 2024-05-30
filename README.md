@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A Student Developer from the UK</h3>
 
-- 🔭 I recently finished working on [an IOS to-do list app](https://github.com/furthestgoose/To-Do-app)
+- 🔭 I recently finished working on [a Vision OS tamagotchi app](https://github.com/furthestgoose/Basic-Tamagotchi-App-AVP-)
 
 - 🌱 I’m currently learning more about **Swift and SwiftUI**
 
