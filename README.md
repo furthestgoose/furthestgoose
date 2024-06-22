@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an IOS app<br>🌱 I’m currently learning Swift and SwiftUI
+🔭 I recently finished [Media Match](https://github.com/furthestgoose/Media-Match)<br>🌱 I’m currently learning Swift and SwiftUI
 
 
 ## 🌐 Socials:
