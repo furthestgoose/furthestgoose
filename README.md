@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I recently finished [Quantum Clicker](https://github.com/furthestgoose/Quantum-Clicker)
+🔭 I recently finished [Quantum Clicker](https://github.com/furthestgoose/Quantum-Clicker)<br>
 🌱 I'm currently learning [React](https://react.dev/)
 
 
