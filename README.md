@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I recently finished [Media Match](https://github.com/furthestgoose/Media-Match)<br>🌱 I’m currently learning Swift and SwiftUI
+🔭 I recently finished [Quantum Clicker](https://github.com/furthestgoose/Quantum-Clicker)
 
 
 ## 🌐 Socials:
