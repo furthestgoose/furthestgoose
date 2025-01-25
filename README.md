@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I recently finished [Financial-Tracker](https://github.com/furthestgoose/financial-tracker)<br>
-🌱 I'm currently Learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+🔭 I recently finished [Keyboard E-shop](https://github.com/furthestgoose/tailored_type)<br>
 
 
 ## 🌐 Socials:
