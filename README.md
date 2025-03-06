@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I recently finished [Keyboard E-shop](https://github.com/furthestgoose/tailored_type)<br>
+🔭 I recently finished my [Journal app](https://furthestgoose.github.io/Journal-app/)<br>
 
 
 ## 🌐 Socials:
