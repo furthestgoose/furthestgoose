@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I recently finished my [Journal app](https://furthestgoose.github.io/Journal-app/)<br>
+🔭 I recently finished my [Second Portfolio Iteration](https://adamb.tech)<br>
 
 
 ## 🌐 Socials:
